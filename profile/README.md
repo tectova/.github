@@ -15,12 +15,12 @@ Tectova connects runway shows, talent and brands in New York, London, Milan and 
 <!-- coverage:start -->
 | Coverage snapshot | |
 | --- | --- |
-| As of | 2026-09-24 |
-| Shows on record, 2002 to 2026 | 17,809 |
-| Documented shows, 2002 to 2026 | 9,640 |
+| As of | 2026-10-01 |
+| Shows on record, 2002 to 2026 | 17,811 |
+| Documented shows, 2002 to 2026 | 9,646 |
 | Cite | [tectova.com/shows#archive-coverage](https://tectova.com/shows#archive-coverage) |
 | Public runway policy | `big-four-2002-v1` |
-| Release | `20260924T084121Z-8d5b3e91b1f2` |
+| Release | `20261001T121932Z-0056f569b069` |
 <!-- coverage:end -->
 
 ## Licence
